@@ -13,6 +13,7 @@ import java.util.Map;
 @Controller
 public class HelloController {
 
+//    // 设置web项目默认首页，这是第一种办法
 //    @RequestMapping({"/","/index.html"})
 //    public String index(){
 //        return "index";
